@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Publications"
+title = "All Publications"
 subtitle = ""
 
 [content]
@@ -37,10 +37,6 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
-
-  # Is this what we want for thumbnails...?
-  # https://github.com/gcushen/hugo-academic/issues/718
-  list_format=2
   
 [design.background]
   # Apply a background color, gradient, or image.

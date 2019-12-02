@@ -7,7 +7,7 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Proceedings of the 26th Annual ACM Symposium on User Interface Software and Technology*"
-tags: ["3d", "augmented reality", "full body", "guidance.", "learning", "motor learning", "movement", "training"]
+tags: ["3d", "augmented reality", "full body", "guidance", "learning", "motor learning", "movement", "training"]
 url_pdf: "http://doi.acm.org/10.1145/2501988.2502045"
 doi: "10.1145/2501988.2502045"
 ---
