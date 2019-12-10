@@ -7,7 +7,7 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Proceedings of the 24th Annual ACM Symposium on User Interface Software and Technology*"
-tags: ["Q&#38;A", "community", "help", "in-product learning"]
+tags: ["QA", "community", "help", "in-product learning"]
 url_pdf: "http://doi.acm.org/10.1145/2047196.2047218"
 doi: "10.1145/2047196.2047218"
 ---
