@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal Research Scientist
+role: Sr. Principal Research Scientist
 
 # Organizations/Affiliations
 organizations:
