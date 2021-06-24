@@ -24,7 +24,7 @@ text
 
 ## More stuff like another header
 Trying out a figure with a caption
-{{< figure src="featured.png" caption="A caption" numbered="true" >}}
+{{< figure src="featured.png" caption=" A caption" numbered="true" >}}
 
 ## Video?
 {{<youtube EHYlrv1a0oA>}}
