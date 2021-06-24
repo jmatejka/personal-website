@@ -23,6 +23,8 @@ I think this is where we put the fun stuff
 text
 
 ## More stuff like another header
+Trying out a figure with a caption
+{{< figure src="gepetto.png" caption="A caption" numbered="true" >}}
 
 ## Video?
 {{<youtube EHYlrv1a0oA>}}
