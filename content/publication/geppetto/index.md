@@ -13,6 +13,7 @@ url_pdf: "http://doi.acm.org/10.1145/3290605.3300599"
 doi: "10.1145/3290605.3300599"
 
 header:
+  placement: 2
   image: "gepetto.png"
   caption: "Trying out a header image"
 ---
