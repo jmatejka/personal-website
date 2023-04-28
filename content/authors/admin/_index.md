@@ -15,7 +15,7 @@ role: Sr. Principal Research Scientist
 # Organizations/Affiliations
 organizations:
 - name: Autodesk Research
-  url: ""
+  url: "research.autodesk.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Justin Matejka is a Senior Principal Research Scientist at Autodesk Research in Toronto, Canada. Since 2006 he has published more than 30 papers and received over 40 patents on a diverse set of topics including interfaces for 3D navigation, software learnability, video navigation, and data visualization. His current research focus is understanding basic human behaviour in visualization and perception, and combining the insights gained into systems for interactively exploring large datasets.
